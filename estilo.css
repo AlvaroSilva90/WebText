@@ -1,0 +1,35 @@
+body
+{font-family:Constantia; 
+font-size: 115%;
+color: white;
+background-color: black;
+}
+
+h1
+{text-align: left; 
+font-size: 300%; 
+font-family:Constantia; 
+color: #FFC125; }
+
+h2{
+font-family:Calibri: Tahoma;
+color: #FFD700;}
+
+h3 {
+font-family:Calibri: Tahoma;
+color: #DC143C;
+}
+
+nav.ul {
+    position: absolute;
+    width: 300px;
+    margin: 2em;
+    padding-left: 11em;
+}
+
+img {
+   align: center
+}
+
+
+
